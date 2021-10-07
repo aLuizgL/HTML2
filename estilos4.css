@@ -34,9 +34,9 @@ ul.listamenu li a:link {
 }
 
 ul.listamenu li a:active {
-    background: #669FF url("imagen/flecha-arrow.gif")
+    background: #6699FF url("imagen/flecha-arrow.gif")
     no-repeat 0 20px;
-        color: #FFFFFF
+        color: #FFFFFF;
 }
 
 ul.listamenu li a:visited {
